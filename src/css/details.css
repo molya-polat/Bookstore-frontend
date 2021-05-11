@@ -1,0 +1,22 @@
+.content{
+    /*background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);*/
+}
+.book-detail{
+    border-spacing: 20px 10px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: normal;
+    margin-left: -100px;
+    margin-right: 20px;
+    width: 80%;
+    table-layout: auto;
+}
+.button-groups{
+    padding: 4%;
+    height:10%;
+    text-align:center;
+}
+.button-groups, .buttons{
+    margin-left: 120px;
+}

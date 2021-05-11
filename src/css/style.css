@@ -1,0 +1,67 @@
+/*file style.css*/
+html {
+    background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
+    margin: 0 auto;
+}
+#roof {
+    height: 200px;
+}
+
+#photo3-left {
+    margin-top: 10px;
+    float: left;
+}
+
+#img1 {
+    width: 120px;
+}
+
+#img2 {
+    width: 120px;
+}
+
+.MainName {
+    font-size: 110px;
+    text-transform: uppercase;
+    font-style: italic;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    margin: 20px;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+    float: left;
+    margin-left: 190px;
+}
+
+#name {
+    float: left;
+}
+
+#photo3-right {
+    width: 120px;
+    margin-top: 10px;
+    float: right;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+#main {
+    height: 800px;
+}
+h2{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 20px;
+    letter-spacing: 0.6px;
+    word-spacing: 0px;
+    color: white;
+    font-weight: 700;
+    text-decoration: none solid rgb(68, 68, 68);
+    font-style: italic;
+    font-variant: normal;
+    text-transform: none;
+    float: right;
+    margin-right: 20px;
+}

@@ -1,0 +1,55 @@
+html {
+    background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
+    margin: 0 auto;
+}
+/*table's style*/
+table, .content {
+    border-spacing: 20px 10px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: normal;
+    margin-left: 200px;
+    margin-right: 20px;
+    width: 80%;
+    table-layout: auto;
+}
+th {
+    padding: 10px 20px;
+    background: darkred;
+    color: white;
+    border-right: 2px solid;
+    font-size: 0.7em;
+    text-transform: uppercase;
+}
+th:first-child {
+    text-align: left;
+}
+th:last-child {
+    border-right: none;
+}
+td {
+    vertical-align: middle;
+    padding: 10px;
+    font-size: 17px;
+    text-align: center;
+    border-top: 2px solid ;
+    border-bottom: 2px solid darkred;
+    border-right: 2px solid darkred;
+    color: white;
+}
+td:first-child, #link {
+    border-left: 2px solid darkred;
+    border-right: none;
+}
+td:nth-child(2){
+    text-align: left;
+}
+.bookPhotos{
+    height: 120px;
+    width: 80px;
+    margin: 0;
+}
+
+
+

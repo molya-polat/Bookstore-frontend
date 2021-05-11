@@ -1,0 +1,25 @@
+/*file menu.css*/
+.menu {
+    position: absolute;
+    margin-top: 10px;
+    height: 800px;
+    width: 150px;
+    margin-left: 25px;
+    float: left;
+
+}
+
+.menu__link {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    position: relative;
+    padding: 14px 0;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 1;
+    letter-spacing: 0.040em;
+}
+
